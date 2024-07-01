@@ -1,0 +1,6 @@
+*nc
+*zip
+subset
+cache_dir
+__pycache__
+cimss*

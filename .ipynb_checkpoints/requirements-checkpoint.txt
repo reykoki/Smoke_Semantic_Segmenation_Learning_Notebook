@@ -1,0 +1,6 @@
+torch
+ray
+segmentation-models-pytorch
+matplotlib
+scikit-image
+wget
